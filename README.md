@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-"Liveness Detection" 
-=======
-# Liveness-Detection
+ # Liveness-Detection
 ## A python script using OpenCV EAR benchmark for face recognition and liveness detection
 
 A Face recognition model that uses the Anti-spoofing mechanism "Liveness Detection" to show how security for face recognition can be enhanced
